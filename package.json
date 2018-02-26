@@ -2,6 +2,7 @@
   "name": "sif-card",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://honohonoho.github.io/sif-card/build",
   "dependencies": {
     "antd-mobile": "^2.1.6",
     "react": "^16.2.0",
